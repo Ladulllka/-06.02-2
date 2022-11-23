@@ -1,0 +1,26 @@
+D:\VS project\Подключение попытка 2\Подключение попытка 2\bin\Debug\Подключение попытка 2.exe.config
+D:\VS project\Подключение попытка 2\Подключение попытка 2\bin\Debug\Подключение попытка 2.exe
+D:\VS project\Подключение попытка 2\Подключение попытка 2\bin\Debug\Подключение попытка 2.pdb
+D:\VS project\Подключение попытка 2\Подключение попытка 2\bin\Debug\MySql.Data.dll
+D:\VS project\Подключение попытка 2\Подключение попытка 2\bin\Debug\MySql.Web.dll
+D:\VS project\Подключение попытка 2\Подключение попытка 2\bin\Debug\Google.Protobuf.dll
+D:\VS project\Подключение попытка 2\Подключение попытка 2\bin\Debug\ZstdNet.dll
+D:\VS project\Подключение попытка 2\Подключение попытка 2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\VS project\Подключение попытка 2\Подключение попытка 2\bin\Debug\BouncyCastle.Crypto.dll
+D:\VS project\Подключение попытка 2\Подключение попытка 2\bin\Debug\System.Memory.dll
+D:\VS project\Подключение попытка 2\Подключение попытка 2\bin\Debug\System.Buffers.dll
+D:\VS project\Подключение попытка 2\Подключение попытка 2\bin\Debug\K4os.Compression.LZ4.dll
+D:\VS project\Подключение попытка 2\Подключение попытка 2\bin\Debug\K4os.Hash.xxHash.dll
+D:\VS project\Подключение попытка 2\Подключение попытка 2\bin\Debug\System.Numerics.Vectors.dll
+D:\VS project\Подключение попытка 2\Подключение попытка 2\bin\Debug\MySql.Data.xml
+D:\VS project\Подключение попытка 2\Подключение попытка 2\bin\Debug\MySql.Web.xml
+D:\VS project\Подключение попытка 2\Подключение попытка 2\obj\Debug\Подключение попытка 2.csproj.AssemblyReference.cache
+D:\VS project\Подключение попытка 2\Подключение попытка 2\obj\Debug\Подключение попытка 2.csproj.SuggestedBindingRedirects.cache
+D:\VS project\Подключение попытка 2\Подключение попытка 2\obj\Debug\Подключение попытка 2.exe.config
+D:\VS project\Подключение попытка 2\Подключение попытка 2\obj\Debug\Подключение_попытка_2.Form1.resources
+D:\VS project\Подключение попытка 2\Подключение попытка 2\obj\Debug\Подключение_попытка_2.Properties.Resources.resources
+D:\VS project\Подключение попытка 2\Подключение попытка 2\obj\Debug\Подключение попытка 2.csproj.GenerateResource.cache
+D:\VS project\Подключение попытка 2\Подключение попытка 2\obj\Debug\Подключение попытка 2.csproj.CoreCompileInputs.cache
+D:\VS project\Подключение попытка 2\Подключение попытка 2\obj\Debug\Подключение попытка 2.csproj.CopyComplete
+D:\VS project\Подключение попытка 2\Подключение попытка 2\obj\Debug\Подключение попытка 2.exe
+D:\VS project\Подключение попытка 2\Подключение попытка 2\obj\Debug\Подключение попытка 2.pdb
